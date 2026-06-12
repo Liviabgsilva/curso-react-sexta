@@ -1,0 +1,17 @@
+.cont-app{
+    background-color: rgb(168, 111, 221);
+    min-height: 100vh;
+
+    display: flex ;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+}
+
+.imagens-gerais{
+    width: 30%;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    margin: 100px;
+}
