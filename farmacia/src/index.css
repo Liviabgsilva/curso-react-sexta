@@ -18,7 +18,7 @@
 
 body {
   background-color: var(--cor-5);
-  color: #333;
+  color:#ce1f3a;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -33,7 +33,7 @@ body {
   max-width: 650px;
   min-height: 550px;
   border-radius: 20px;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 10px 30px #e96a7e;
   padding: 35px;
   display: flex;
   flex-direction: column;
@@ -52,7 +52,7 @@ nav {
 nav button {
   background: none;
   border: none;
-  color: #666;
+  color: #ce1f3a;
   font-size: 1.05rem;
   font-weight: 600;
   cursor: pointer;
@@ -92,7 +92,7 @@ h2 {
 p {
   line-height: 1.6;
   margin-bottom: 15px;
-  color: #444;
+  color:  #e23e57;
   font-size: 1.05rem;
 }
 
@@ -133,7 +133,7 @@ p {
   font-weight: bold;
   border-radius: 15px;
   cursor: pointer;
-  box-shadow: 0 6px 20px rgba(226, 62, 87, 0.25);
+  box-shadow: 0 6px 20px;
   transition: background-color 0.2s, transform 0.1s;
   width: 100%;
   max-width: 380px;
@@ -157,7 +157,7 @@ p {
 }
 
 .box-senha {
-  border: 2px solid #333;
+  border: 2px solid #ef97a4;
   background-color: var(--cor-2);
   padding: 10px 25px;
   border-radius: 10px;
@@ -167,5 +167,5 @@ p {
   color: var(--cor-4);
   min-width: 140px;
   text-align: center;
-  box-shadow: 2px 2px 0px #333;
+  box-shadow: 2px 2px 0px #e6e6e6;
 }

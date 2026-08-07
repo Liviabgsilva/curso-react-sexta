@@ -2,7 +2,10 @@ import React from 'react'
 
 function Cabecalho() {
   return (
-    <div>Cabecalho</div>
+<div className='cabeçalho'>
+  <h1>Cabeçalhos</h1>
+
+</div>
   )
 }
 
